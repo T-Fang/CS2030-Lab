@@ -1,0 +1,57 @@
+0.000 1 arrives
+0.000 1 served by server 1
+0.026 2 arrives
+0.026 2 served by server 2
+0.035 3 arrives
+0.035 3 waits to be served by server 1
+0.093 4 arrives
+0.093 4 waits to be served by server 1
+0.094 5 arrives
+0.094 5 waits to be served by server 1
+0.107 6 arrives
+0.107 6 waits to be served by server 2
+0.108 7 arrives
+0.108 7 waits to be served by server 2
+0.231 8 arrives
+0.231 8 waits to be served by server 2
+0.313 1 done serving by server 1
+0.313 3 served by server 1
+0.447 9 arrives
+0.447 9 waits to be served by server 1
+0.472 10 arrives
+0.472 10 leaves
+0.476 11 arrives
+0.476 11 leaves
+0.767 12 arrives
+0.767 12 leaves
+0.798 13 arrives
+0.798 13 leaves
+0.811 14 arrives
+0.811 14 leaves
+1.050 15 arrives
+1.050 15 leaves
+1.125 16 arrives
+1.125 16 leaves
+1.212 17 arrives
+1.212 17 leaves
+1.212 18 arrives
+1.212 18 leaves
+1.261 19 arrives
+1.261 19 leaves
+1.322 20 arrives
+1.322 20 leaves
+2.671 2 done serving by server 2
+2.671 6 served by server 2
+2.935 6 done serving by server 2
+2.935 7 served by server 2
+3.015 3 done serving by server 1
+3.015 4 served by server 1
+3.430 4 done serving by server 1
+3.430 5 served by server 1
+3.644 5 done serving by server 1
+3.644 9 served by server 1
+4.416 7 done serving by server 2
+4.416 8 served by server 2
+4.626 8 done serving by server 2
+7.157 9 done serving by server 1
+[2.145 9 11]

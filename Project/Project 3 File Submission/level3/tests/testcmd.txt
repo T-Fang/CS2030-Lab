@@ -1,0 +1,12 @@
+javac Main.java && java Main < test1.in | diff test1.out -
+javac Main.java && java Main < test2.in | diff test2.out -
+javac Main.java && java Main < test3.in | diff test3.out -
+
+
+javac Main.java && java Main < level1-1.in | diff level1-1.out -
+javac Main.java && java Main < level1-2.in | diff level1-2.out -
+javac Main.java && java Main < level1-3.in | diff level1-3.out -
+javac Main.java && java Main < level1-4.in | diff level1-4.out -
+javac Main.java && java Main < level1-5.in | diff level1-5.out -
+javac Main.java && java Main < level1-6.in | diff level1-6.out -
+javac Main.java && java Main < level1-7.in | diff level1-7.out -

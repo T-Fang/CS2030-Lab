@@ -1,0 +1,2914 @@
+0.000 1 arrives
+0.000 1 served by server 1
+0.045 2 arrives
+0.045 2 served by server 2
+0.060 3 arrives
+0.060 3 served by server 3
+0.159 4 arrives
+0.159 4 waits to be served by server 1
+0.162 5 arrives
+0.162 5 waits to be served by server 1
+0.184 6 arrives
+0.184 6 waits to be served by server 1
+0.185 7 arrives
+0.185 7 waits to be served by server 1
+0.313 1 done serving by server 1
+0.313 4 served by server 1
+0.396 8 arrives
+0.396 8 waits to be served by server 1
+0.577 4 done serving by server 1
+0.577 5 served by server 1
+0.767 9 arrives
+0.767 9 waits to be served by server 1
+0.809 10 arrives
+0.809 10 waits to be served by server 1
+0.817 11 arrives
+0.817 11 waits to be served by server 1
+1.315 12 arrives
+1.315 12 waits to be served by server 1
+1.368 13 arrives
+1.368 13 waits to be served by server 1
+1.391 14 arrives
+1.391 14 waits to be served by server 1
+1.801 15 arrives
+1.801 15 waits to be served by server 1
+1.929 16 arrives
+1.929 16 waits to be served by server 2
+2.058 5 done serving by server 1
+2.058 6 served by server 1
+2.078 17 arrives
+2.078 17 waits to be served by server 1
+2.079 18 arrives
+2.079 18 waits to be served by server 2
+2.161 19 arrives
+2.161 19 waits to be served by server 2
+2.267 20 arrives
+2.267 20 waits to be served by server 2
+2.473 6 done serving by server 1
+2.473 7 served by server 1
+2.688 7 done serving by server 1
+2.688 8 served by server 1
+2.690 2 done serving by server 2
+2.690 16 served by server 2
+2.697 21 arrives
+2.697 21 waits to be served by server 1
+2.761 3 done serving by server 3
+2.774 22 arrives
+2.774 22 served by server 3
+2.797 23 arrives
+2.797 23 waits to be served by server 1
+2.830 22 done serving by server 3
+2.899 16 done serving by server 2
+2.899 18 served by server 2
+3.008 24 arrives
+3.008 24 served by server 3
+3.102 24 done serving by server 3
+3.276 25 arrives
+3.276 25 served by server 3
+3.277 25 done serving by server 3
+3.281 26 arrives
+3.281 26 served by server 3
+3.489 27 arrives
+3.489 27 waits to be served by server 2
+3.558 28 arrives
+3.558 28 waits to be served by server 2
+3.629 29 arrives
+3.629 29 waits to be served by server 2
+3.829 30 arrives
+3.829 30 waits to be served by server 2
+3.854 31 arrives
+3.854 31 waits to be served by server 2
+3.897 26 done serving by server 3
+3.907 32 arrives
+3.907 32 served by server 3
+3.930 32 done serving by server 3
+3.939 33 arrives
+3.939 33 served by server 3
+4.238 34 arrives
+4.238 34 waits to be served by server 2
+4.556 35 arrives
+4.556 35 waits to be served by server 2
+4.778 18 done serving by server 2
+4.778 19 served by server 2
+5.045 36 arrives
+5.045 36 waits to be served by server 2
+5.054 37 arrives
+5.054 37 waits to be served by server 2
+5.243 38 arrives
+5.243 38 waits to be served by server 3
+5.327 39 arrives
+5.327 39 waits to be served by server 3
+5.378 19 done serving by server 2
+5.378 20 served by server 2
+5.539 40 arrives
+5.539 40 waits to be served by server 2
+5.782 33 done serving by server 3
+5.782 38 served by server 3
+5.817 41 arrives
+5.817 41 waits to be served by server 3
+6.201 8 done serving by server 1
+6.201 9 served by server 1
+6.243 42 arrives
+6.243 42 waits to be served by server 1
+6.534 43 arrives
+6.534 43 waits to be served by server 3
+6.595 38 done serving by server 3
+6.595 39 served by server 3
+6.941 44 arrives
+6.941 44 waits to be served by server 3
+7.052 45 arrives
+7.052 45 waits to be served by server 3
+7.086 9 done serving by server 1
+7.086 10 served by server 1
+7.160 46 arrives
+7.160 46 waits to be served by server 1
+7.356 47 arrives
+7.356 47 waits to be served by server 3
+7.390 48 arrives
+7.390 48 waits to be served by server 3
+7.427 49 arrives
+7.427 49 waits to be served by server 3
+7.579 50 arrives
+7.579 50 waits to be served by server 3
+7.625 51 arrives
+7.625 51 waits to be served by server 3
+7.643 52 arrives
+7.643 52 waits to be served by server 3
+7.747 20 done serving by server 2
+7.747 27 served by server 2
+7.766 53 arrives
+7.766 53 waits to be served by server 2
+7.845 39 done serving by server 3
+7.845 41 served by server 3
+7.903 41 done serving by server 3
+7.903 43 served by server 3
+8.019 43 done serving by server 3
+8.019 44 served by server 3
+8.020 54 arrives
+8.020 54 waits to be served by server 3
+8.285 55 arrives
+8.285 55 waits to be served by server 3
+8.466 27 done serving by server 2
+8.466 28 served by server 2
+8.534 56 arrives
+8.534 56 waits to be served by server 2
+8.616 57 arrives
+8.616 57 waits to be served by server 3
+8.643 44 done serving by server 3
+8.643 45 served by server 3
+8.862 10 done serving by server 1
+8.862 11 served by server 1
+8.949 58 arrives
+8.949 58 waits to be served by server 1
+9.025 28 done serving by server 2
+9.025 29 served by server 2
+9.064 29 done serving by server 2
+9.064 30 served by server 2
+9.210 59 arrives
+9.210 59 waits to be served by server 2
+9.232 11 done serving by server 1
+9.232 12 served by server 1
+9.275 60 arrives
+9.275 60 waits to be served by server 1
+9.366 61 arrives
+9.366 61 waits to be served by server 2
+9.874 62 arrives
+9.874 62 waits to be served by server 3
+9.958 63 arrives
+9.958 63 leaves
+10.013 45 done serving by server 3
+10.013 47 served by server 3
+10.031 64 arrives
+10.031 64 waits to be served by server 3
+10.133 65 arrives
+10.133 65 leaves
+10.148 66 arrives
+10.148 66 leaves
+10.162 30 done serving by server 2
+10.162 31 served by server 2
+10.579 12 done serving by server 1
+10.579 13 served by server 1
+10.604 67 arrives
+10.604 67 waits to be served by server 1
+10.715 68 arrives
+10.715 68 waits to be served by server 2
+10.848 69 arrives
+10.848 69 leaves
+10.869 13 done serving by server 1
+10.869 14 served by server 1
+10.880 70 arrives
+10.880 70 waits to be served by server 1
+10.882 47 done serving by server 3
+10.882 48 served by server 3
+11.038 71 arrives
+11.038 71 waits to be served by server 3
+11.097 72 arrives
+11.097 72 leaves
+11.142 73 arrives
+11.142 73 leaves
+11.192 74 arrives
+11.192 74 leaves
+11.282 75 arrives
+11.282 75 leaves
+11.628 14 done serving by server 1
+11.628 15 served by server 1
+12.238 31 done serving by server 2
+12.238 34 served by server 2
+12.274 76 arrives
+12.274 76 waits to be served by server 1
+12.281 77 arrives
+12.281 77 waits to be served by server 2
+12.423 15 done serving by server 1
+12.423 17 served by server 1
+12.427 78 arrives
+12.427 78 waits to be served by server 1
+12.493 79 arrives
+12.493 79 leaves
+12.659 48 done serving by server 3
+12.659 49 served by server 3
+12.740 80 arrives
+12.740 80 waits to be served by server 3
+12.841 81 arrives
+12.841 81 leaves
+12.855 82 arrives
+12.855 82 leaves
+13.035 83 arrives
+13.035 83 leaves
+13.078 84 arrives
+13.078 84 leaves
+13.114 17 done serving by server 1
+13.114 21 served by server 1
+13.265 85 arrives
+13.265 85 waits to be served by server 1
+13.327 86 arrives
+13.327 86 leaves
+13.330 49 done serving by server 3
+13.330 50 served by server 3
+13.357 87 arrives
+13.357 87 waits to be served by server 3
+13.447 88 arrives
+13.447 88 leaves
+13.500 34 done serving by server 2
+13.500 35 served by server 2
+13.810 21 done serving by server 1
+13.810 23 served by server 1
+13.919 89 arrives
+13.919 89 waits to be served by server 1
+13.981 23 done serving by server 1
+13.981 42 served by server 1
+13.988 90 arrives
+13.988 90 waits to be served by server 1
+14.238 91 arrives
+14.238 91 waits to be served by server 2
+14.423 50 done serving by server 3
+14.423 51 served by server 3
+14.529 51 done serving by server 3
+14.529 52 served by server 3
+14.555 92 arrives
+14.555 92 waits to be served by server 3
+14.632 93 arrives
+14.632 93 waits to be served by server 3
+14.641 35 done serving by server 2
+14.641 36 served by server 2
+14.767 94 arrives
+14.767 94 waits to be served by server 2
+14.787 95 arrives
+14.787 95 leaves
+14.841 52 done serving by server 3
+14.841 54 served by server 3
+14.879 96 arrives
+14.879 96 waits to be served by server 3
+14.894 97 arrives
+14.894 97 leaves
+14.912 98 arrives
+14.912 98 leaves
+15.080 99 arrives
+15.080 99 leaves
+15.221 100 arrives
+15.221 100 leaves
+15.224 36 done serving by server 2
+15.224 37 served by server 2
+15.347 101 arrives
+15.347 101 waits to be served by server 2
+15.390 102 arrives
+15.390 102 leaves
+15.409 103 arrives
+15.409 103 leaves
+15.424 104 arrives
+15.424 104 leaves
+15.611 105 arrives
+15.611 105 leaves
+15.771 106 arrives
+15.771 106 leaves
+15.785 107 arrives
+15.785 107 leaves
+15.846 108 arrives
+15.846 108 leaves
+16.228 109 arrives
+16.228 109 leaves
+16.361 54 done serving by server 3
+16.361 55 served by server 3
+16.447 110 arrives
+16.447 110 waits to be served by server 3
+16.609 111 arrives
+16.609 111 leaves
+16.611 112 arrives
+16.611 112 leaves
+16.617 113 arrives
+16.617 113 leaves
+16.702 114 arrives
+16.702 114 leaves
+16.904 42 done serving by server 1
+16.904 46 served by server 1
+17.253 115 arrives
+17.253 115 waits to be served by server 1
+17.328 116 arrives
+17.328 116 leaves
+17.331 117 arrives
+17.331 117 leaves
+17.414 118 arrives
+17.414 118 leaves
+17.489 46 done serving by server 1
+17.489 58 served by server 1
+17.607 119 arrives
+17.607 119 waits to be served by server 1
+17.935 120 arrives
+17.935 120 leaves
+18.025 58 done serving by server 1
+18.025 60 served by server 1
+18.025 121 arrives
+18.025 121 waits to be served by server 1
+18.264 37 done serving by server 2
+18.264 40 served by server 2
+18.287 122 arrives
+18.287 122 waits to be served by server 2
+18.502 123 arrives
+18.502 123 leaves
+18.584 124 arrives
+18.584 124 leaves
+18.608 40 done serving by server 2
+18.608 53 served by server 2
+18.636 55 done serving by server 3
+18.636 57 served by server 3
+18.665 125 arrives
+18.665 125 waits to be served by server 2
+18.668 53 done serving by server 2
+18.668 56 served by server 2
+18.797 126 arrives
+18.797 126 waits to be served by server 2
+18.867 127 arrives
+18.867 127 waits to be served by server 3
+18.898 128 arrives
+18.898 128 leaves
+19.020 129 arrives
+19.020 129 leaves
+19.172 130 arrives
+19.172 130 leaves
+19.230 131 arrives
+19.230 131 leaves
+19.282 60 done serving by server 1
+19.282 67 served by server 1
+19.364 132 arrives
+19.364 132 waits to be served by server 1
+19.420 133 arrives
+19.420 133 leaves
+19.446 67 done serving by server 1
+19.446 70 served by server 1
+19.448 134 arrives
+19.448 134 waits to be served by server 1
+19.697 135 arrives
+19.697 135 leaves
+19.698 136 arrives
+19.698 136 leaves
+19.924 137 arrives
+19.924 137 leaves
+20.021 56 done serving by server 2
+20.021 59 served by server 2
+20.085 138 arrives
+20.085 138 waits to be served by server 2
+20.149 70 done serving by server 1
+20.149 76 served by server 1
+20.304 139 arrives
+20.304 139 waits to be served by server 1
+20.599 76 done serving by server 1
+20.599 78 served by server 1
+20.901 140 arrives
+20.901 140 waits to be served by server 1
+20.951 141 arrives
+20.951 141 leaves
+21.035 78 done serving by server 1
+21.035 85 served by server 1
+21.117 142 arrives
+21.117 142 waits to be served by server 1
+21.195 57 done serving by server 3
+21.195 62 served by server 3
+21.431 85 done serving by server 1
+21.431 89 served by server 1
+21.481 62 done serving by server 3
+21.481 64 served by server 3
+21.487 143 arrives
+21.487 143 waits to be served by server 1
+21.614 144 arrives
+21.614 144 waits to be served by server 3
+21.813 145 arrives
+21.813 145 waits to be served by server 3
+21.984 59 done serving by server 2
+21.984 61 served by server 2
+22.115 146 arrives
+22.115 146 waits to be served by server 2
+22.213 147 arrives
+22.213 147 leaves
+22.283 64 done serving by server 3
+22.283 71 served by server 3
+22.306 148 arrives
+22.306 148 waits to be served by server 3
+22.896 149 arrives
+22.896 149 leaves
+22.910 61 done serving by server 2
+22.910 68 served by server 2
+22.978 150 arrives
+22.978 150 waits to be served by server 2
+23.020 151 arrives
+23.020 151 leaves
+23.219 152 arrives
+23.219 152 leaves
+23.284 89 done serving by server 1
+23.284 90 served by server 1
+23.320 153 arrives
+23.320 153 waits to be served by server 1
+23.401 90 done serving by server 1
+23.401 115 served by server 1
+23.439 154 arrives
+23.439 154 waits to be served by server 1
+23.519 115 done serving by server 1
+23.519 119 served by server 1
+23.739 155 arrives
+23.739 155 waits to be served by server 1
+23.833 156 arrives
+23.833 156 leaves
+24.049 157 arrives
+24.049 157 leaves
+24.185 71 done serving by server 3
+24.185 80 served by server 3
+24.330 158 arrives
+24.330 158 waits to be served by server 3
+24.386 159 arrives
+24.386 159 leaves
+24.427 160 arrives
+24.427 160 leaves
+24.483 80 done serving by server 3
+24.483 87 served by server 3
+24.523 87 done serving by server 3
+24.523 92 served by server 3
+24.789 161 arrives
+24.789 161 waits to be served by server 3
+24.791 119 done serving by server 1
+24.791 121 served by server 1
+24.856 162 arrives
+24.856 162 waits to be served by server 1
+25.009 163 arrives
+25.009 163 waits to be served by server 3
+25.050 164 arrives
+25.050 164 leaves
+25.150 121 done serving by server 1
+25.150 132 served by server 1
+25.162 165 arrives
+25.162 165 waits to be served by server 1
+25.325 132 done serving by server 1
+25.325 134 served by server 1
+25.460 134 done serving by server 1
+25.460 139 served by server 1
+25.482 166 arrives
+25.482 166 waits to be served by server 1
+25.584 167 arrives
+25.584 167 waits to be served by server 1
+25.955 139 done serving by server 1
+25.955 140 served by server 1
+26.268 92 done serving by server 3
+26.268 93 served by server 3
+26.378 93 done serving by server 3
+26.378 96 served by server 3
+26.424 168 arrives
+26.424 168 waits to be served by server 1
+27.178 169 arrives
+27.178 169 waits to be served by server 3
+27.700 170 arrives
+27.700 170 waits to be served by server 3
+27.843 68 done serving by server 2
+27.843 77 served by server 2
+28.344 96 done serving by server 3
+28.344 110 served by server 3
+28.682 140 done serving by server 1
+28.682 142 served by server 1
+28.831 171 arrives
+28.831 171 waits to be served by server 1
+28.940 172 arrives
+28.940 172 waits to be served by server 2
+28.981 173 arrives
+28.981 173 waits to be served by server 3
+28.991 174 arrives
+28.991 174 leaves
+29.142 110 done serving by server 3
+29.142 127 served by server 3
+29.256 175 arrives
+29.256 175 waits to be served by server 3
+29.389 176 arrives
+29.389 176 leaves
+29.722 177 arrives
+29.722 177 leaves
+29.989 178 arrives
+29.989 178 leaves
+30.090 179 arrives
+30.090 179 leaves
+30.106 180 arrives
+30.106 180 leaves
+30.337 142 done serving by server 1
+30.337 143 served by server 1
+30.723 181 arrives
+30.723 181 waits to be served by server 1
+30.859 182 arrives
+30.859 182 leaves
+31.031 183 arrives
+31.031 183 leaves
+31.108 143 done serving by server 1
+31.108 153 served by server 1
+31.155 184 arrives
+31.155 184 waits to be served by server 1
+31.162 185 arrives
+31.162 185 leaves
+31.262 186 arrives
+31.262 186 leaves
+31.726 187 arrives
+31.726 187 leaves
+31.758 188 arrives
+31.758 188 leaves
+31.898 189 arrives
+31.898 189 leaves
+32.087 190 arrives
+32.087 190 leaves
+32.089 191 arrives
+32.089 191 leaves
+32.135 192 arrives
+32.135 192 leaves
+32.151 153 done serving by server 1
+32.151 154 served by server 1
+32.197 193 arrives
+32.197 193 waits to be served by server 1
+32.204 194 arrives
+32.204 194 leaves
+32.285 195 arrives
+32.285 195 leaves
+32.552 196 arrives
+32.552 196 leaves
+32.582 197 arrives
+32.582 197 leaves
+32.953 198 arrives
+32.953 198 leaves
+33.042 127 done serving by server 3
+33.042 144 served by server 3
+33.074 199 arrives
+33.074 199 waits to be served by server 3
+33.130 200 arrives
+33.130 200 leaves
+33.276 201 arrives
+33.276 201 leaves
+33.627 202 arrives
+33.627 202 leaves
+33.629 203 arrives
+33.629 203 leaves
+33.884 144 done serving by server 3
+33.884 145 served by server 3
+33.897 204 arrives
+33.897 204 waits to be served by server 3
+34.060 205 arrives
+34.060 205 leaves
+34.535 206 arrives
+34.535 206 leaves
+34.637 207 arrives
+34.637 207 leaves
+34.667 208 arrives
+34.667 208 leaves
+34.899 209 arrives
+34.899 209 leaves
+34.925 210 arrives
+34.925 210 leaves
+34.986 211 arrives
+34.986 211 leaves
+35.163 77 done serving by server 2
+35.163 91 served by server 2
+35.175 212 arrives
+35.175 212 waits to be served by server 2
+35.467 91 done serving by server 2
+35.467 94 served by server 2
+35.548 213 arrives
+35.548 213 waits to be served by server 2
+35.799 94 done serving by server 2
+35.799 101 served by server 2
+35.874 214 arrives
+35.874 214 waits to be served by server 2
+35.881 215 arrives
+35.881 215 leaves
+35.901 216 arrives
+35.901 216 leaves
+35.912 145 done serving by server 3
+35.912 148 served by server 3
+35.919 217 arrives
+35.919 217 waits to be served by server 3
+36.113 218 arrives
+36.113 218 leaves
+36.319 219 arrives
+36.319 219 leaves
+36.445 154 done serving by server 1
+36.445 155 served by server 1
+36.550 101 done serving by server 2
+36.550 122 served by server 2
+36.612 122 done serving by server 2
+36.612 125 served by server 2
+36.645 125 done serving by server 2
+36.645 126 served by server 2
+36.733 220 arrives
+36.733 220 waits to be served by server 1
+36.889 221 arrives
+36.889 221 waits to be served by server 2
+36.923 222 arrives
+36.923 222 waits to be served by server 2
+36.952 223 arrives
+36.952 223 waits to be served by server 2
+37.066 224 arrives
+37.066 224 leaves
+37.239 148 done serving by server 3
+37.239 158 served by server 3
+37.356 155 done serving by server 1
+37.356 162 served by server 1
+37.380 225 arrives
+37.380 225 waits to be served by server 1
+37.476 226 arrives
+37.476 226 waits to be served by server 3
+37.574 162 done serving by server 1
+37.574 165 served by server 1
+37.606 227 arrives
+37.606 227 waits to be served by server 1
+37.627 228 arrives
+37.627 228 leaves
+37.631 158 done serving by server 3
+37.631 161 served by server 3
+37.802 165 done serving by server 1
+37.802 166 served by server 1
+38.021 166 done serving by server 1
+38.021 167 served by server 1
+38.033 161 done serving by server 3
+38.033 163 served by server 3
+38.089 229 arrives
+38.089 229 waits to be served by server 1
+38.089 230 arrives
+38.089 230 waits to be served by server 1
+38.269 231 arrives
+38.269 231 waits to be served by server 3
+38.441 232 arrives
+38.441 232 waits to be served by server 3
+38.497 233 arrives
+38.497 233 leaves
+38.808 234 arrives
+38.808 234 leaves
+38.811 235 arrives
+38.811 235 leaves
+38.869 236 arrives
+38.869 236 leaves
+39.039 237 arrives
+39.039 237 leaves
+39.117 163 done serving by server 3
+39.117 169 served by server 3
+39.270 238 arrives
+39.270 238 waits to be served by server 3
+39.437 169 done serving by server 3
+39.437 170 served by server 3
+39.587 126 done serving by server 2
+39.587 138 served by server 2
+39.637 167 done serving by server 1
+39.637 168 served by server 1
+39.646 239 arrives
+39.646 239 waits to be served by server 1
+39.665 240 arrives
+39.665 240 waits to be served by server 2
+39.709 241 arrives
+39.709 241 waits to be served by server 3
+39.955 242 arrives
+39.955 242 leaves
+40.067 243 arrives
+40.067 243 leaves
+40.122 244 arrives
+40.122 244 leaves
+40.272 245 arrives
+40.272 245 leaves
+40.347 246 arrives
+40.347 246 leaves
+40.391 138 done serving by server 2
+40.391 146 served by server 2
+40.473 170 done serving by server 3
+40.473 173 served by server 3
+40.605 247 arrives
+40.605 247 waits to be served by server 2
+40.658 248 arrives
+40.658 248 waits to be served by server 3
+40.688 249 arrives
+40.688 249 leaves
+40.889 250 arrives
+40.889 250 leaves
+40.915 173 done serving by server 3
+40.915 175 served by server 3
+41.213 175 done serving by server 3
+41.213 199 served by server 3
+41.273 251 arrives
+41.273 251 waits to be served by server 3
+41.362 252 arrives
+41.362 252 waits to be served by server 3
+41.458 253 arrives
+41.458 253 leaves
+41.672 146 done serving by server 2
+41.672 150 served by server 2
+41.676 150 done serving by server 2
+41.676 172 served by server 2
+41.755 254 arrives
+41.755 254 waits to be served by server 2
+41.932 255 arrives
+41.932 255 waits to be served by server 2
+42.011 256 arrives
+42.011 256 leaves
+42.177 257 arrives
+42.177 257 leaves
+42.212 258 arrives
+42.212 258 leaves
+42.247 259 arrives
+42.247 259 leaves
+42.394 168 done serving by server 1
+42.394 171 served by server 1
+42.425 172 done serving by server 2
+42.425 212 served by server 2
+42.484 212 done serving by server 2
+42.484 213 served by server 2
+42.572 213 done serving by server 2
+42.572 214 served by server 2
+42.676 171 done serving by server 1
+42.676 181 served by server 1
+42.715 260 arrives
+42.715 260 waits to be served by server 1
+42.863 261 arrives
+42.863 261 waits to be served by server 1
+42.949 262 arrives
+42.949 262 waits to be served by server 2
+42.995 181 done serving by server 1
+42.995 184 served by server 1
+43.013 263 arrives
+43.013 263 waits to be served by server 1
+43.042 264 arrives
+43.042 264 waits to be served by server 2
+43.074 265 arrives
+43.074 265 waits to be served by server 2
+43.154 266 arrives
+43.154 266 leaves
+43.162 267 arrives
+43.162 267 leaves
+43.174 268 arrives
+43.174 268 leaves
+43.198 199 done serving by server 3
+43.198 204 served by server 3
+43.302 214 done serving by server 2
+43.302 221 served by server 2
+43.341 221 done serving by server 2
+43.341 222 served by server 2
+43.489 269 arrives
+43.489 269 waits to be served by server 2
+43.528 270 arrives
+43.528 270 waits to be served by server 2
+43.551 184 done serving by server 1
+43.551 193 served by server 1
+43.601 271 arrives
+43.601 271 waits to be served by server 1
+43.622 272 arrives
+43.622 272 waits to be served by server 3
+43.861 273 arrives
+43.861 273 leaves
+43.908 193 done serving by server 1
+43.908 220 served by server 1
+43.929 220 done serving by server 1
+43.929 225 served by server 1
+43.953 274 arrives
+43.953 274 waits to be served by server 1
+43.987 204 done serving by server 3
+43.987 217 served by server 3
+44.093 275 arrives
+44.093 275 waits to be served by server 1
+44.448 276 arrives
+44.448 276 waits to be served by server 3
+44.469 277 arrives
+44.469 277 leaves
+44.655 278 arrives
+44.655 278 leaves
+44.733 279 arrives
+44.733 279 leaves
+44.986 225 done serving by server 1
+44.986 227 served by server 1
+45.095 222 done serving by server 2
+45.095 223 served by server 2
+45.196 280 arrives
+45.196 280 waits to be served by server 1
+45.259 281 arrives
+45.259 281 waits to be served by server 2
+45.322 282 arrives
+45.322 282 leaves
+45.412 227 done serving by server 1
+45.412 229 served by server 1
+45.538 283 arrives
+45.538 283 waits to be served by server 1
+45.832 284 arrives
+45.832 284 leaves
+46.005 285 arrives
+46.005 285 leaves
+46.133 286 arrives
+46.133 286 leaves
+46.193 229 done serving by server 1
+46.193 230 served by server 1
+46.233 223 done serving by server 2
+46.233 240 served by server 2
+46.390 287 arrives
+46.390 287 waits to be served by server 1
+46.402 230 done serving by server 1
+46.402 239 served by server 1
+46.492 288 arrives
+46.492 288 waits to be served by server 1
+46.513 289 arrives
+46.513 289 waits to be served by server 2
+46.818 290 arrives
+46.818 290 leaves
+46.845 291 arrives
+46.845 291 leaves
+46.997 292 arrives
+46.997 292 leaves
+47.020 293 arrives
+47.020 293 leaves
+47.082 294 arrives
+47.082 294 leaves
+47.198 217 done serving by server 3
+47.198 226 served by server 3
+47.328 295 arrives
+47.328 295 waits to be served by server 3
+47.538 296 arrives
+47.538 296 leaves
+47.540 297 arrives
+47.540 297 leaves
+47.553 298 arrives
+47.553 298 leaves
+47.578 240 done serving by server 2
+47.578 247 served by server 2
+47.683 299 arrives
+47.683 299 waits to be served by server 2
+47.830 300 arrives
+47.830 300 leaves
+47.889 301 arrives
+47.889 301 leaves
+48.070 302 arrives
+48.070 302 leaves
+48.142 247 done serving by server 2
+48.142 254 served by server 2
+48.204 303 arrives
+48.204 303 waits to be served by server 2
+48.483 254 done serving by server 2
+48.483 255 served by server 2
+48.679 304 arrives
+48.679 304 waits to be served by server 2
+48.792 226 done serving by server 3
+48.792 231 served by server 3
+48.830 305 arrives
+48.830 305 waits to be served by server 3
+49.054 306 arrives
+49.054 306 leaves
+49.158 231 done serving by server 3
+49.158 232 served by server 3
+49.222 307 arrives
+49.222 307 waits to be served by server 3
+49.622 308 arrives
+49.622 308 leaves
+49.698 309 arrives
+49.698 309 leaves
+49.702 239 done serving by server 1
+49.702 260 served by server 1
+49.915 232 done serving by server 3
+49.915 238 served by server 3
+50.014 310 arrives
+50.014 310 waits to be served by server 1
+50.020 311 arrives
+50.020 311 waits to be served by server 3
+50.039 260 done serving by server 1
+50.039 261 served by server 1
+50.082 312 arrives
+50.082 312 waits to be served by server 1
+50.114 313 arrives
+50.114 313 leaves
+50.206 314 arrives
+50.206 314 leaves
+50.430 315 arrives
+50.430 315 leaves
+50.493 316 arrives
+50.493 316 leaves
+50.561 261 done serving by server 1
+50.561 263 served by server 1
+50.581 255 done serving by server 2
+50.581 262 served by server 2
+50.709 317 arrives
+50.709 317 waits to be served by server 1
+51.299 318 arrives
+51.299 318 waits to be served by server 2
+51.321 319 arrives
+51.321 319 leaves
+51.355 263 done serving by server 1
+51.355 271 served by server 1
+51.460 320 arrives
+51.460 320 waits to be served by server 1
+51.623 321 arrives
+51.623 321 leaves
+51.702 322 arrives
+51.702 322 leaves
+51.771 262 done serving by server 2
+51.771 264 served by server 2
+51.836 323 arrives
+51.836 323 waits to be served by server 2
+51.870 324 arrives
+51.870 324 leaves
+51.920 325 arrives
+51.920 325 leaves
+51.993 326 arrives
+51.993 326 leaves
+52.027 327 arrives
+52.027 327 leaves
+52.058 238 done serving by server 3
+52.058 241 served by server 3
+52.259 328 arrives
+52.259 328 waits to be served by server 3
+52.533 329 arrives
+52.533 329 leaves
+52.535 330 arrives
+52.535 330 leaves
+52.739 271 done serving by server 1
+52.739 274 served by server 1
+52.830 274 done serving by server 1
+52.830 275 served by server 1
+52.971 331 arrives
+52.971 331 waits to be served by server 1
+53.145 332 arrives
+53.145 332 waits to be served by server 1
+53.202 333 arrives
+53.202 333 leaves
+53.454 334 arrives
+53.454 334 leaves
+53.521 241 done serving by server 3
+53.521 248 served by server 3
+53.548 335 arrives
+53.548 335 waits to be served by server 3
+53.572 336 arrives
+53.572 336 leaves
+53.638 337 arrives
+53.638 337 leaves
+53.733 338 arrives
+53.733 338 leaves
+53.741 264 done serving by server 2
+53.741 265 served by server 2
+53.898 275 done serving by server 1
+53.898 280 served by server 1
+53.917 339 arrives
+53.917 339 waits to be served by server 1
+53.947 340 arrives
+53.947 340 waits to be served by server 2
+53.960 265 done serving by server 2
+53.960 269 served by server 2
+53.990 341 arrives
+53.990 341 waits to be served by server 2
+54.017 342 arrives
+54.017 342 leaves
+54.147 343 arrives
+54.147 343 leaves
+54.196 280 done serving by server 1
+54.196 283 served by server 1
+54.223 344 arrives
+54.223 344 waits to be served by server 1
+54.312 345 arrives
+54.312 345 leaves
+54.367 248 done serving by server 3
+54.367 251 served by server 3
+54.368 269 done serving by server 2
+54.368 270 served by server 2
+54.441 346 arrives
+54.441 346 waits to be served by server 2
+54.648 251 done serving by server 3
+54.648 252 served by server 3
+54.754 347 arrives
+54.754 347 waits to be served by server 3
+54.805 252 done serving by server 3
+54.805 272 served by server 3
+54.902 348 arrives
+54.902 348 waits to be served by server 3
+54.919 283 done serving by server 1
+54.919 287 served by server 1
+55.072 349 arrives
+55.072 349 waits to be served by server 1
+55.206 350 arrives
+55.206 350 waits to be served by server 3
+55.258 351 arrives
+55.258 351 leaves
+55.344 352 arrives
+55.344 352 leaves
+55.361 287 done serving by server 1
+55.361 288 served by server 1
+55.419 353 arrives
+55.419 353 waits to be served by server 1
+55.423 354 arrives
+55.423 354 leaves
+55.441 355 arrives
+55.441 355 leaves
+55.471 356 arrives
+55.471 356 leaves
+55.548 357 arrives
+55.548 357 leaves
+55.622 288 done serving by server 1
+55.622 310 served by server 1
+55.670 358 arrives
+55.670 358 waits to be served by server 1
+55.684 359 arrives
+55.684 359 leaves
+55.695 360 arrives
+55.695 360 leaves
+55.863 361 arrives
+55.863 361 leaves
+55.925 362 arrives
+55.925 362 leaves
+55.998 363 arrives
+55.998 363 leaves
+56.063 364 arrives
+56.063 364 leaves
+56.344 365 arrives
+56.344 365 leaves
+56.406 366 arrives
+56.406 366 leaves
+56.620 367 arrives
+56.620 367 leaves
+56.764 310 done serving by server 1
+56.764 312 served by server 1
+56.771 368 arrives
+56.771 368 waits to be served by server 1
+56.844 369 arrives
+56.844 369 leaves
+56.859 370 arrives
+56.859 370 leaves
+56.947 272 done serving by server 3
+56.947 276 served by server 3
+57.011 312 done serving by server 1
+57.011 317 served by server 1
+57.019 371 arrives
+57.019 371 waits to be served by server 1
+57.131 270 done serving by server 2
+57.131 281 served by server 2
+57.165 372 arrives
+57.165 372 waits to be served by server 2
+57.303 373 arrives
+57.303 373 waits to be served by server 3
+57.432 374 arrives
+57.432 374 leaves
+57.461 375 arrives
+57.461 375 leaves
+57.475 276 done serving by server 3
+57.475 295 served by server 3
+57.671 376 arrives
+57.671 376 waits to be served by server 3
+57.747 377 arrives
+57.747 377 leaves
+57.750 378 arrives
+57.750 378 leaves
+57.822 317 done serving by server 1
+57.822 320 served by server 1
+57.829 379 arrives
+57.829 379 waits to be served by server 1
+57.869 380 arrives
+57.869 380 leaves
+57.916 381 arrives
+57.916 381 leaves
+58.182 295 done serving by server 3
+58.182 305 served by server 3
+58.293 382 arrives
+58.293 382 waits to be served by server 3
+58.398 383 arrives
+58.398 383 leaves
+58.400 384 arrives
+58.400 384 leaves
+58.475 385 arrives
+58.475 385 leaves
+58.660 386 arrives
+58.660 386 leaves
+58.802 281 done serving by server 2
+58.802 289 served by server 2
+58.837 387 arrives
+58.837 387 waits to be served by server 2
+58.900 388 arrives
+58.900 388 leaves
+59.035 389 arrives
+59.035 389 leaves
+59.136 390 arrives
+59.136 390 leaves
+59.504 391 arrives
+59.504 391 leaves
+59.676 392 arrives
+59.676 392 leaves
+59.829 393 arrives
+59.829 393 leaves
+59.883 394 arrives
+59.883 394 leaves
+59.891 395 arrives
+59.891 395 leaves
+59.915 305 done serving by server 3
+59.915 307 served by server 3
+59.936 396 arrives
+59.936 396 waits to be served by server 3
+60.229 397 arrives
+60.229 397 leaves
+60.245 398 arrives
+60.245 398 leaves
+60.330 399 arrives
+60.330 399 leaves
+60.345 400 arrives
+60.345 400 leaves
+60.382 401 arrives
+60.382 401 leaves
+60.499 402 arrives
+60.499 402 leaves
+60.543 403 arrives
+60.543 403 leaves
+61.009 307 done serving by server 3
+61.009 311 served by server 3
+61.055 404 arrives
+61.055 404 waits to be served by server 3
+61.087 289 done serving by server 2
+61.087 299 served by server 2
+61.262 405 arrives
+61.262 405 waits to be served by server 2
+61.292 406 arrives
+61.292 406 leaves
+61.364 407 arrives
+61.364 407 leaves
+61.449 408 arrives
+61.449 408 leaves
+61.453 409 arrives
+61.453 409 leaves
+61.506 299 done serving by server 2
+61.506 303 served by server 2
+61.704 320 done serving by server 1
+61.704 331 served by server 1
+61.721 410 arrives
+61.721 410 waits to be served by server 1
+62.138 303 done serving by server 2
+62.138 304 served by server 2
+62.139 411 arrives
+62.139 411 waits to be served by server 2
+62.210 412 arrives
+62.210 412 waits to be served by server 2
+62.269 413 arrives
+62.269 413 leaves
+62.270 414 arrives
+62.270 414 leaves
+62.474 415 arrives
+62.474 415 leaves
+62.679 304 done serving by server 2
+62.679 318 served by server 2
+62.733 416 arrives
+62.733 416 waits to be served by server 2
+62.779 311 done serving by server 3
+62.779 328 served by server 3
+62.969 417 arrives
+62.969 417 waits to be served by server 3
+63.061 331 done serving by server 1
+63.061 332 served by server 1
+63.308 418 arrives
+63.308 418 waits to be served by server 1
+63.398 419 arrives
+63.398 419 leaves
+63.417 420 arrives
+63.417 420 leaves
+63.443 332 done serving by server 1
+63.443 339 served by server 1
+63.665 421 arrives
+63.665 421 waits to be served by server 1
+63.755 318 done serving by server 2
+63.755 323 served by server 2
+63.805 422 arrives
+63.805 422 waits to be served by server 2
+63.835 423 arrives
+63.835 423 leaves
+63.868 328 done serving by server 3
+63.868 335 served by server 3
+64.038 424 arrives
+64.038 424 waits to be served by server 3
+64.044 425 arrives
+64.044 425 leaves
+64.053 426 arrives
+64.053 426 leaves
+64.162 427 arrives
+64.162 427 leaves
+64.239 428 arrives
+64.239 428 leaves
+64.280 429 arrives
+64.280 429 leaves
+64.381 430 arrives
+64.381 430 leaves
+64.463 335 done serving by server 3
+64.463 347 served by server 3
+64.572 431 arrives
+64.572 431 waits to be served by server 3
+64.575 339 done serving by server 1
+64.575 344 served by server 1
+64.587 347 done serving by server 3
+64.587 348 served by server 3
+64.887 432 arrives
+64.887 432 waits to be served by server 1
+64.950 433 arrives
+64.950 433 waits to be served by server 3
+65.042 434 arrives
+65.042 434 leaves
+65.161 435 arrives
+65.161 435 leaves
+65.421 436 arrives
+65.421 436 leaves
+65.464 437 arrives
+65.464 437 leaves
+65.466 438 arrives
+65.466 438 leaves
+65.527 439 arrives
+65.527 439 leaves
+65.601 440 arrives
+65.601 440 leaves
+65.902 441 arrives
+65.902 441 leaves
+66.070 442 arrives
+66.070 442 leaves
+66.246 443 arrives
+66.246 443 leaves
+66.453 444 arrives
+66.453 444 leaves
+66.556 445 arrives
+66.556 445 leaves
+66.841 323 done serving by server 2
+66.841 340 served by server 2
+67.023 446 arrives
+67.023 446 waits to be served by server 2
+67.222 447 arrives
+67.222 447 leaves
+67.534 448 arrives
+67.534 448 leaves
+67.536 344 done serving by server 1
+67.536 349 served by server 1
+67.686 449 arrives
+67.686 449 waits to be served by server 1
+67.764 450 arrives
+67.764 450 leaves
+67.768 451 arrives
+67.768 451 leaves
+67.919 452 arrives
+67.919 452 leaves
+68.067 453 arrives
+68.067 453 leaves
+68.076 454 arrives
+68.076 454 leaves
+68.132 455 arrives
+68.132 455 leaves
+68.281 456 arrives
+68.281 456 leaves
+68.295 457 arrives
+68.295 457 leaves
+68.343 458 arrives
+68.343 458 leaves
+68.392 459 arrives
+68.392 459 leaves
+68.611 460 arrives
+68.611 460 leaves
+68.729 461 arrives
+68.729 461 leaves
+68.730 340 done serving by server 2
+68.730 341 served by server 2
+69.001 349 done serving by server 1
+69.001 353 served by server 1
+69.085 462 arrives
+69.085 462 waits to be served by server 1
+69.089 463 arrives
+69.089 463 waits to be served by server 2
+69.626 341 done serving by server 2
+69.626 346 served by server 2
+69.704 464 arrives
+69.704 464 waits to be served by server 2
+69.706 465 arrives
+69.706 465 leaves
+69.732 466 arrives
+69.732 466 leaves
+69.788 467 arrives
+69.788 467 leaves
+69.993 346 done serving by server 2
+69.993 372 served by server 2
+70.130 468 arrives
+70.130 468 waits to be served by server 2
+70.266 469 arrives
+70.266 469 leaves
+70.624 470 arrives
+70.624 470 leaves
+70.712 471 arrives
+70.712 471 leaves
+70.722 353 done serving by server 1
+70.722 358 served by server 1
+70.920 472 arrives
+70.920 472 waits to be served by server 1
+71.123 473 arrives
+71.123 473 leaves
+71.153 474 arrives
+71.153 474 leaves
+71.508 475 arrives
+71.508 475 leaves
+71.633 372 done serving by server 2
+71.633 387 served by server 2
+71.691 358 done serving by server 1
+71.691 368 served by server 1
+71.931 387 done serving by server 2
+71.931 405 served by server 2
+71.983 476 arrives
+71.983 476 waits to be served by server 1
+72.339 348 done serving by server 3
+72.339 350 served by server 3
+72.343 477 arrives
+72.343 477 waits to be served by server 2
+72.369 478 arrives
+72.369 478 waits to be served by server 2
+72.534 479 arrives
+72.534 479 waits to be served by server 3
+72.579 480 arrives
+72.579 480 leaves
+72.671 481 arrives
+72.671 481 leaves
+72.774 482 arrives
+72.774 482 leaves
+72.883 405 done serving by server 2
+72.883 411 served by server 2
+72.977 483 arrives
+72.977 483 waits to be served by server 2
+73.030 368 done serving by server 1
+73.030 371 served by server 1
+73.087 350 done serving by server 3
+73.087 373 served by server 3
+73.213 484 arrives
+73.213 484 waits to be served by server 1
+73.477 411 done serving by server 2
+73.477 412 served by server 2
+73.496 485 arrives
+73.496 485 waits to be served by server 2
+73.540 486 arrives
+73.540 486 waits to be served by server 3
+73.611 487 arrives
+73.611 487 leaves
+73.645 488 arrives
+73.645 488 leaves
+73.751 489 arrives
+73.751 489 leaves
+73.886 490 arrives
+73.886 490 leaves
+74.099 412 done serving by server 2
+74.099 416 served by server 2
+74.103 491 arrives
+74.103 491 waits to be served by server 2
+74.255 492 arrives
+74.255 492 leaves
+74.367 493 arrives
+74.367 493 leaves
+74.544 494 arrives
+74.544 494 leaves
+74.630 495 arrives
+74.630 495 leaves
+74.725 496 arrives
+74.725 496 leaves
+74.861 497 arrives
+74.861 497 leaves
+74.955 371 done serving by server 1
+74.955 379 served by server 1
+74.959 498 arrives
+74.959 498 waits to be served by server 1
+74.960 499 arrives
+74.960 499 leaves
+74.979 379 done serving by server 1
+74.979 410 served by server 1
+75.108 500 arrives
+75.108 500 waits to be served by server 1
+75.289 501 arrives
+75.289 501 leaves
+75.298 502 arrives
+75.298 502 leaves
+75.301 503 arrives
+75.301 503 leaves
+75.550 504 arrives
+75.550 504 leaves
+75.568 505 arrives
+75.568 505 leaves
+75.601 506 arrives
+75.601 506 leaves
+75.748 373 done serving by server 3
+75.748 376 served by server 3
+75.796 507 arrives
+75.796 507 waits to be served by server 3
+75.982 508 arrives
+75.982 508 leaves
+76.076 509 arrives
+76.076 509 leaves
+76.106 510 arrives
+76.106 510 leaves
+76.283 511 arrives
+76.283 511 leaves
+76.312 410 done serving by server 1
+76.312 418 served by server 1
+76.429 512 arrives
+76.429 512 waits to be served by server 1
+76.432 418 done serving by server 1
+76.432 421 served by server 1
+76.540 421 done serving by server 1
+76.540 432 served by server 1
+76.546 432 done serving by server 1
+76.546 449 served by server 1
+76.566 513 arrives
+76.566 513 waits to be served by server 1
+76.675 514 arrives
+76.675 514 waits to be served by server 1
+76.845 515 arrives
+76.845 515 waits to be served by server 1
+77.066 516 arrives
+77.066 516 leaves
+77.271 517 arrives
+77.271 517 leaves
+77.347 518 arrives
+77.347 518 leaves
+77.435 519 arrives
+77.435 519 leaves
+77.580 520 arrives
+77.580 520 leaves
+77.796 521 arrives
+77.796 521 leaves
+77.953 522 arrives
+77.953 522 leaves
+78.011 523 arrives
+78.011 523 leaves
+78.145 449 done serving by server 1
+78.145 462 served by server 1
+78.189 524 arrives
+78.189 524 waits to be served by server 1
+78.250 525 arrives
+78.250 525 leaves
+78.265 526 arrives
+78.265 526 leaves
+78.300 527 arrives
+78.300 527 leaves
+78.660 528 arrives
+78.660 528 leaves
+78.681 462 done serving by server 1
+78.681 472 served by server 1
+79.124 529 arrives
+79.124 529 waits to be served by server 1
+79.191 530 arrives
+79.191 530 leaves
+79.342 531 arrives
+79.342 531 leaves
+79.456 472 done serving by server 1
+79.456 476 served by server 1
+79.599 532 arrives
+79.599 532 waits to be served by server 1
+79.601 533 arrives
+79.601 533 leaves
+79.625 534 arrives
+79.625 534 leaves
+79.711 535 arrives
+79.711 535 leaves
+79.770 416 done serving by server 2
+79.770 422 served by server 2
+79.939 536 arrives
+79.939 536 waits to be served by server 2
+79.964 537 arrives
+79.964 537 leaves
+80.234 538 arrives
+80.234 538 leaves
+80.247 539 arrives
+80.247 539 leaves
+80.571 540 arrives
+80.571 540 leaves
+80.582 541 arrives
+80.582 541 leaves
+80.626 476 done serving by server 1
+80.626 484 served by server 1
+80.688 542 arrives
+80.688 542 waits to be served by server 1
+80.709 543 arrives
+80.709 543 leaves
+80.790 544 arrives
+80.790 544 leaves
+80.848 545 arrives
+80.848 545 leaves
+80.898 546 arrives
+80.898 546 leaves
+80.940 547 arrives
+80.940 547 leaves
+81.009 484 done serving by server 1
+81.009 498 served by server 1
+81.048 548 arrives
+81.048 548 waits to be served by server 1
+81.078 549 arrives
+81.078 549 leaves
+81.185 550 arrives
+81.185 550 leaves
+81.422 551 arrives
+81.422 551 leaves
+81.429 552 arrives
+81.429 552 leaves
+81.441 553 arrives
+81.441 553 leaves
+81.619 498 done serving by server 1
+81.619 500 served by server 1
+81.669 422 done serving by server 2
+81.669 446 served by server 2
+81.863 554 arrives
+81.863 554 waits to be served by server 1
+81.868 446 done serving by server 2
+81.868 463 served by server 2
+81.902 463 done serving by server 2
+81.902 464 served by server 2
+82.087 555 arrives
+82.087 555 waits to be served by server 2
+82.194 376 done serving by server 3
+82.194 382 served by server 3
+82.395 556 arrives
+82.395 556 waits to be served by server 2
+82.445 464 done serving by server 2
+82.445 468 served by server 2
+82.501 557 arrives
+82.501 557 waits to be served by server 2
+82.566 500 done serving by server 1
+82.566 512 served by server 1
+82.657 512 done serving by server 1
+82.657 513 served by server 1
+82.675 558 arrives
+82.675 558 waits to be served by server 1
+82.870 559 arrives
+82.870 559 waits to be served by server 1
+82.894 513 done serving by server 1
+82.894 514 served by server 1
+82.927 560 arrives
+82.927 560 waits to be served by server 1
+82.941 514 done serving by server 1
+82.941 515 served by server 1
+82.962 561 arrives
+82.962 561 waits to be served by server 1
+82.974 562 arrives
+82.974 562 waits to be served by server 2
+83.008 468 done serving by server 2
+83.008 477 served by server 2
+83.051 563 arrives
+83.051 563 waits to be served by server 2
+83.089 382 done serving by server 3
+83.089 396 served by server 3
+83.092 477 done serving by server 2
+83.092 478 served by server 2
+83.194 515 done serving by server 1
+83.194 524 served by server 1
+83.241 396 done serving by server 3
+83.241 404 served by server 3
+83.332 564 arrives
+83.332 564 waits to be served by server 1
+83.420 565 arrives
+83.420 565 waits to be served by server 2
+83.524 566 arrives
+83.524 566 waits to be served by server 3
+83.586 567 arrives
+83.586 567 waits to be served by server 3
+83.639 568 arrives
+83.639 568 waits to be served by server 3
+83.870 569 arrives
+83.870 569 leaves
+83.896 570 arrives
+83.896 570 leaves
+83.907 571 arrives
+83.907 571 leaves
+83.927 572 arrives
+83.927 572 leaves
+83.992 573 arrives
+83.992 573 leaves
+83.996 574 arrives
+83.996 574 leaves
+84.078 575 arrives
+84.078 575 leaves
+84.252 478 done serving by server 2
+84.252 483 served by server 2
+84.275 576 arrives
+84.275 576 waits to be served by server 2
+84.416 577 arrives
+84.416 577 leaves
+84.454 483 done serving by server 2
+84.454 485 served by server 2
+84.466 578 arrives
+84.466 578 waits to be served by server 2
+84.624 579 arrives
+84.624 579 leaves
+84.900 524 done serving by server 1
+84.900 529 served by server 1
+84.925 580 arrives
+84.925 580 waits to be served by server 1
+84.987 581 arrives
+84.987 581 leaves
+85.057 582 arrives
+85.057 582 leaves
+85.213 485 done serving by server 2
+85.213 491 served by server 2
+85.288 529 done serving by server 1
+85.288 532 served by server 1
+85.300 583 arrives
+85.300 583 waits to be served by server 1
+85.603 584 arrives
+85.603 584 waits to be served by server 2
+85.630 585 arrives
+85.630 585 leaves
+85.714 586 arrives
+85.714 586 leaves
+86.008 587 arrives
+86.008 587 leaves
+86.333 532 done serving by server 1
+86.333 542 served by server 1
+86.392 588 arrives
+86.392 588 waits to be served by server 1
+86.610 589 arrives
+86.610 589 leaves
+86.758 491 done serving by server 2
+86.758 536 served by server 2
+86.944 590 arrives
+86.944 590 waits to be served by server 2
+87.037 591 arrives
+87.037 591 leaves
+87.048 592 arrives
+87.048 592 leaves
+87.053 542 done serving by server 1
+87.053 548 served by server 1
+87.181 593 arrives
+87.181 593 waits to be served by server 1
+87.232 594 arrives
+87.232 594 leaves
+87.414 536 done serving by server 2
+87.414 555 served by server 2
+87.480 555 done serving by server 2
+87.480 556 served by server 2
+87.563 595 arrives
+87.563 595 waits to be served by server 2
+87.652 404 done serving by server 3
+87.652 417 served by server 3
+87.663 548 done serving by server 1
+87.663 554 served by server 1
+87.682 417 done serving by server 3
+87.682 424 served by server 3
+87.758 596 arrives
+87.758 596 waits to be served by server 1
+87.774 556 done serving by server 2
+87.774 557 served by server 2
+87.780 597 arrives
+87.780 597 waits to be served by server 2
+88.016 598 arrives
+88.016 598 waits to be served by server 2
+88.065 599 arrives
+88.065 599 waits to be served by server 3
+88.167 557 done serving by server 2
+88.167 562 served by server 2
+88.219 600 arrives
+88.219 600 waits to be served by server 2
+88.264 601 arrives
+88.264 601 waits to be served by server 3
+88.380 424 done serving by server 3
+88.380 431 served by server 3
+88.422 602 arrives
+88.422 602 waits to be served by server 3
+88.473 603 arrives
+88.473 603 leaves
+88.542 604 arrives
+88.542 604 leaves
+88.561 554 done serving by server 1
+88.561 558 served by server 1
+88.632 605 arrives
+88.632 605 waits to be served by server 1
+88.647 606 arrives
+88.647 606 leaves
+88.876 562 done serving by server 2
+88.876 563 served by server 2
+89.080 607 arrives
+89.080 607 waits to be served by server 2
+89.091 608 arrives
+89.091 608 leaves
+89.205 563 done serving by server 2
+89.205 565 served by server 2
+89.334 609 arrives
+89.334 609 waits to be served by server 2
+89.467 610 arrives
+89.467 610 leaves
+89.495 611 arrives
+89.495 611 leaves
+89.588 612 arrives
+89.588 612 leaves
+89.651 613 arrives
+89.651 613 leaves
+89.678 614 arrives
+89.678 614 leaves
+89.817 615 arrives
+89.817 615 leaves
+89.823 616 arrives
+89.823 616 leaves
+90.027 431 done serving by server 3
+90.027 433 served by server 3
+90.122 617 arrives
+90.122 617 waits to be served by server 3
+90.135 558 done serving by server 1
+90.135 559 served by server 1
+90.160 565 done serving by server 2
+90.160 576 served by server 2
+90.383 576 done serving by server 2
+90.383 578 served by server 2
+90.671 618 arrives
+90.671 618 waits to be served by server 1
+90.727 619 arrives
+90.727 619 waits to be served by server 2
+90.731 578 done serving by server 2
+90.731 584 served by server 2
+90.740 584 done serving by server 2
+90.740 590 served by server 2
+90.796 590 done serving by server 2
+90.796 595 served by server 2
+90.947 595 done serving by server 2
+90.947 597 served by server 2
+90.956 620 arrives
+90.956 620 waits to be served by server 2
+90.991 597 done serving by server 2
+90.991 598 served by server 2
+91.044 621 arrives
+91.044 621 waits to be served by server 2
+91.360 622 arrives
+91.360 622 waits to be served by server 2
+91.464 623 arrives
+91.464 623 waits to be served by server 2
+91.496 598 done serving by server 2
+91.496 600 served by server 2
+91.527 600 done serving by server 2
+91.527 607 served by server 2
+91.531 624 arrives
+91.531 624 waits to be served by server 2
+91.562 559 done serving by server 1
+91.562 560 served by server 1
+91.838 625 arrives
+91.838 625 waits to be served by server 1
+91.959 560 done serving by server 1
+91.959 561 served by server 1
+92.064 561 done serving by server 1
+92.064 564 served by server 1
+92.216 626 arrives
+92.216 626 waits to be served by server 1
+92.252 627 arrives
+92.252 627 waits to be served by server 1
+92.612 628 arrives
+92.612 628 waits to be served by server 2
+92.826 629 arrives
+92.826 629 waits to be served by server 2
+92.939 630 arrives
+92.939 630 waits to be served by server 2
+92.998 631 arrives
+92.998 631 leaves
+93.235 632 arrives
+93.235 632 leaves
+93.257 564 done serving by server 1
+93.257 580 served by server 1
+93.339 633 arrives
+93.339 633 waits to be served by server 1
+93.447 634 arrives
+93.447 634 leaves
+93.735 433 done serving by server 3
+93.735 479 served by server 3
+93.744 635 arrives
+93.744 635 waits to be served by server 3
+93.760 636 arrives
+93.760 636 leaves
+93.803 637 arrives
+93.803 637 leaves
+93.967 638 arrives
+93.967 638 leaves
+94.032 639 arrives
+94.032 639 leaves
+94.215 640 arrives
+94.215 640 leaves
+94.250 479 done serving by server 3
+94.250 486 served by server 3
+94.265 580 done serving by server 1
+94.265 583 served by server 1
+94.521 641 arrives
+94.521 641 waits to be served by server 1
+94.644 642 arrives
+94.644 642 waits to be served by server 3
+95.127 486 done serving by server 3
+95.127 507 served by server 3
+95.183 507 done serving by server 3
+95.183 566 served by server 3
+95.185 643 arrives
+95.185 643 waits to be served by server 3
+95.264 644 arrives
+95.264 644 waits to be served by server 3
+95.377 645 arrives
+95.377 645 leaves
+95.613 646 arrives
+95.613 646 leaves
+95.729 647 arrives
+95.729 647 leaves
+95.779 566 done serving by server 3
+95.779 567 served by server 3
+95.917 648 arrives
+95.917 648 waits to be served by server 3
+95.972 649 arrives
+95.972 649 leaves
+96.029 650 arrives
+96.029 650 leaves
+96.253 651 arrives
+96.253 651 leaves
+96.269 607 done serving by server 2
+96.269 609 served by server 2
+96.425 652 arrives
+96.425 652 waits to be served by server 2
+96.632 653 arrives
+96.632 653 leaves
+96.651 583 done serving by server 1
+96.651 588 served by server 1
+96.734 654 arrives
+96.734 654 waits to be served by server 1
+96.806 588 done serving by server 1
+96.806 593 served by server 1
+97.175 655 arrives
+97.175 655 waits to be served by server 1
+97.327 656 arrives
+97.327 656 leaves
+97.355 609 done serving by server 2
+97.355 619 served by server 2
+97.436 657 arrives
+97.436 657 waits to be served by server 2
+97.511 619 done serving by server 2
+97.511 620 served by server 2
+97.568 658 arrives
+97.568 658 waits to be served by server 2
+97.581 593 done serving by server 1
+97.581 596 served by server 1
+97.633 567 done serving by server 3
+97.633 568 served by server 3
+97.819 659 arrives
+97.819 659 waits to be served by server 1
+98.025 660 arrives
+98.025 660 waits to be served by server 3
+98.092 596 done serving by server 1
+98.092 605 served by server 1
+98.276 661 arrives
+98.276 661 waits to be served by server 1
+98.345 662 arrives
+98.345 662 leaves
+98.411 663 arrives
+98.411 663 leaves
+98.431 664 arrives
+98.431 664 leaves
+98.499 665 arrives
+98.499 665 leaves
+98.624 666 arrives
+98.624 666 leaves
+98.647 667 arrives
+98.647 667 leaves
+98.686 668 arrives
+98.686 668 leaves
+98.795 669 arrives
+98.795 669 leaves
+98.834 620 done serving by server 2
+98.834 621 served by server 2
+98.961 568 done serving by server 3
+98.961 599 served by server 3
+99.160 670 arrives
+99.160 670 waits to be served by server 2
+99.599 671 arrives
+99.599 671 waits to be served by server 3
+99.614 599 done serving by server 3
+99.614 601 served by server 3
+100.143 601 done serving by server 3
+100.143 602 served by server 3
+100.178 672 arrives
+100.178 672 waits to be served by server 3
+100.230 621 done serving by server 2
+100.230 622 served by server 2
+100.293 673 arrives
+100.293 673 waits to be served by server 2
+100.329 674 arrives
+100.329 674 waits to be served by server 3
+100.392 602 done serving by server 3
+100.392 617 served by server 3
+100.673 675 arrives
+100.673 675 waits to be served by server 3
+100.703 622 done serving by server 2
+100.703 623 served by server 2
+100.847 676 arrives
+100.847 676 waits to be served by server 2
+100.950 677 arrives
+100.950 677 leaves
+100.976 678 arrives
+100.976 678 leaves
+101.022 679 arrives
+101.022 679 leaves
+101.041 680 arrives
+101.041 680 leaves
+101.042 681 arrives
+101.042 681 leaves
+101.053 682 arrives
+101.053 682 leaves
+101.140 683 arrives
+101.140 683 leaves
+101.605 617 done serving by server 3
+101.605 635 served by server 3
+101.612 684 arrives
+101.612 684 waits to be served by server 3
+101.637 605 done serving by server 1
+101.637 618 served by server 1
+101.744 635 done serving by server 3
+101.744 642 served by server 3
+101.838 685 arrives
+101.838 685 waits to be served by server 1
+101.843 642 done serving by server 3
+101.843 643 served by server 3
+101.986 618 done serving by server 1
+101.986 625 served by server 1
+102.084 686 arrives
+102.084 686 waits to be served by server 1
+102.375 643 done serving by server 3
+102.375 644 served by server 3
+102.621 687 arrives
+102.621 687 waits to be served by server 3
+102.747 688 arrives
+102.747 688 waits to be served by server 3
+102.871 623 done serving by server 2
+102.871 624 served by server 2
+102.934 689 arrives
+102.934 689 waits to be served by server 2
+102.936 690 arrives
+102.936 690 waits to be served by server 3
+102.946 691 arrives
+102.946 691 leaves
+103.058 644 done serving by server 3
+103.058 648 served by server 3
+103.147 625 done serving by server 1
+103.147 626 served by server 1
+103.247 692 arrives
+103.247 692 waits to be served by server 1
+103.275 624 done serving by server 2
+103.275 628 served by server 2
+103.340 693 arrives
+103.340 693 waits to be served by server 2
+103.358 694 arrives
+103.358 694 waits to be served by server 3
+103.367 695 arrives
+103.367 695 leaves
+103.627 626 done serving by server 1
+103.627 627 served by server 1
+103.724 696 arrives
+103.724 696 waits to be served by server 1
+103.807 627 done serving by server 1
+103.807 633 served by server 1
+103.809 697 arrives
+103.809 697 waits to be served by server 1
+103.818 698 arrives
+103.818 698 leaves
+103.854 699 arrives
+103.854 699 leaves
+104.055 628 done serving by server 2
+104.055 629 served by server 2
+104.172 629 done serving by server 2
+104.172 630 served by server 2
+104.191 700 arrives
+104.191 700 waits to be served by server 2
+104.439 648 done serving by server 3
+104.439 660 served by server 3
+104.468 701 arrives
+104.468 701 waits to be served by server 2
+104.613 702 arrives
+104.613 702 waits to be served by server 3
+104.720 703 arrives
+104.720 703 leaves
+104.735 704 arrives
+104.735 704 leaves
+104.756 705 arrives
+104.756 705 leaves
+104.798 630 done serving by server 2
+104.798 652 served by server 2
+104.830 660 done serving by server 3
+104.830 671 served by server 3
+104.831 706 arrives
+104.831 706 waits to be served by server 2
+105.013 633 done serving by server 1
+105.013 641 served by server 1
+105.183 707 arrives
+105.183 707 waits to be served by server 1
+105.233 708 arrives
+105.233 708 waits to be served by server 3
+105.271 652 done serving by server 2
+105.271 657 served by server 2
+105.479 641 done serving by server 1
+105.479 654 served by server 1
+105.630 709 arrives
+105.630 709 waits to be served by server 1
+105.788 654 done serving by server 1
+105.788 655 served by server 1
+105.994 710 arrives
+105.994 710 waits to be served by server 1
+106.171 711 arrives
+106.171 711 waits to be served by server 2
+106.342 712 arrives
+106.342 712 leaves
+106.384 655 done serving by server 1
+106.384 659 served by server 1
+106.452 713 arrives
+106.452 713 waits to be served by server 1
+106.487 714 arrives
+106.487 714 leaves
+106.563 715 arrives
+106.563 715 leaves
+106.704 716 arrives
+106.704 716 leaves
+106.743 717 arrives
+106.743 717 leaves
+106.829 718 arrives
+106.829 718 leaves
+106.835 671 done serving by server 3
+106.835 672 served by server 3
+107.009 719 arrives
+107.009 719 waits to be served by server 3
+107.228 657 done serving by server 2
+107.228 658 served by server 2
+107.326 720 arrives
+107.326 720 waits to be served by server 2
+107.336 721 arrives
+107.336 721 leaves
+107.723 722 arrives
+107.723 722 leaves
+107.828 723 arrives
+107.828 723 leaves
+107.846 724 arrives
+107.846 724 leaves
+107.896 725 arrives
+107.896 725 leaves
+107.979 726 arrives
+107.979 726 leaves
+108.180 727 arrives
+108.180 727 leaves
+108.317 728 arrives
+108.317 728 leaves
+108.512 729 arrives
+108.512 729 leaves
+108.524 730 arrives
+108.524 730 leaves
+108.559 731 arrives
+108.559 731 leaves
+108.609 658 done serving by server 2
+108.609 670 served by server 2
+108.869 732 arrives
+108.869 732 waits to be served by server 2
+108.898 733 arrives
+108.898 733 leaves
+109.001 734 arrives
+109.001 734 leaves
+109.032 735 arrives
+109.032 735 leaves
+109.199 659 done serving by server 1
+109.199 661 served by server 1
+109.404 736 arrives
+109.404 736 waits to be served by server 1
+109.422 737 arrives
+109.422 737 leaves
+109.630 738 arrives
+109.630 738 leaves
+109.665 739 arrives
+109.665 739 leaves
+109.683 740 arrives
+109.683 740 leaves
+109.702 741 arrives
+109.702 741 leaves
+109.730 742 arrives
+109.730 742 leaves
+109.785 672 done serving by server 3
+109.785 674 served by server 3
+109.904 743 arrives
+109.904 743 waits to be served by server 3
+109.970 744 arrives
+109.970 744 leaves
+110.000 745 arrives
+110.000 745 leaves
+110.109 746 arrives
+110.109 746 leaves
+110.189 661 done serving by server 1
+110.189 685 served by server 1
+110.338 747 arrives
+110.338 747 waits to be served by server 1
+110.506 685 done serving by server 1
+110.506 686 served by server 1
+110.553 748 arrives
+110.553 748 waits to be served by server 1
+110.769 686 done serving by server 1
+110.769 692 served by server 1
+110.889 749 arrives
+110.889 749 waits to be served by server 1
+111.039 750 arrives
+111.039 750 leaves
+111.310 751 arrives
+111.310 751 leaves
+111.527 674 done serving by server 3
+111.527 675 served by server 3
+111.678 752 arrives
+111.678 752 waits to be served by server 3
+111.905 675 done serving by server 3
+111.905 684 served by server 3
+111.944 684 done serving by server 3
+111.944 687 served by server 3
+112.053 692 done serving by server 1
+112.053 696 served by server 1
+112.113 687 done serving by server 3
+112.113 688 served by server 3
+112.205 696 done serving by server 1
+112.205 697 served by server 1
+112.301 670 done serving by server 2
+112.301 673 served by server 2
+112.333 753 arrives
+112.333 753 waits to be served by server 1
+112.337 754 arrives
+112.337 754 waits to be served by server 1
+112.344 755 arrives
+112.344 755 waits to be served by server 2
+112.410 756 arrives
+112.410 756 waits to be served by server 3
+112.558 757 arrives
+112.558 757 waits to be served by server 3
+112.654 758 arrives
+112.654 758 waits to be served by server 3
+112.993 759 arrives
+112.993 759 leaves
+113.255 760 arrives
+113.255 760 leaves
+113.271 761 arrives
+113.271 761 leaves
+113.299 688 done serving by server 3
+113.299 690 served by server 3
+113.478 673 done serving by server 2
+113.478 676 served by server 2
+113.536 762 arrives
+113.536 762 waits to be served by server 2
+113.582 763 arrives
+113.582 763 waits to be served by server 3
+113.660 676 done serving by server 2
+113.660 689 served by server 2
+113.739 689 done serving by server 2
+113.739 693 served by server 2
+113.838 690 done serving by server 3
+113.838 694 served by server 3
+113.848 764 arrives
+113.848 764 waits to be served by server 2
+113.883 765 arrives
+113.883 765 waits to be served by server 2
+113.895 766 arrives
+113.895 766 waits to be served by server 3
+113.935 693 done serving by server 2
+113.935 700 served by server 2
+114.088 700 done serving by server 2
+114.088 701 served by server 2
+114.114 767 arrives
+114.114 767 waits to be served by server 2
+114.184 768 arrives
+114.184 768 waits to be served by server 2
+114.193 694 done serving by server 3
+114.193 702 served by server 3
+114.272 769 arrives
+114.272 769 waits to be served by server 3
+114.279 702 done serving by server 3
+114.279 708 served by server 3
+114.323 708 done serving by server 3
+114.323 719 served by server 3
+114.342 770 arrives
+114.342 770 waits to be served by server 3
+114.389 771 arrives
+114.389 771 waits to be served by server 3
+114.544 772 arrives
+114.544 772 leaves
+114.596 773 arrives
+114.596 773 leaves
+114.700 697 done serving by server 1
+114.700 707 served by server 1
+114.912 774 arrives
+114.912 774 waits to be served by server 1
+114.993 775 arrives
+114.993 775 leaves
+115.060 776 arrives
+115.060 776 leaves
+115.085 777 arrives
+115.085 777 leaves
+115.181 707 done serving by server 1
+115.181 709 served by server 1
+115.245 778 arrives
+115.245 778 waits to be served by server 1
+115.413 779 arrives
+115.413 779 leaves
+115.561 780 arrives
+115.561 780 leaves
+115.821 719 done serving by server 3
+115.821 743 served by server 3
+115.871 709 done serving by server 1
+115.871 710 served by server 1
+115.935 781 arrives
+115.935 781 waits to be served by server 1
+115.946 701 done serving by server 2
+115.946 706 served by server 2
+115.954 782 arrives
+115.954 782 waits to be served by server 2
+116.401 783 arrives
+116.401 783 waits to be served by server 3
+116.897 784 arrives
+116.897 784 leaves
+116.900 785 arrives
+116.900 785 leaves
+116.974 786 arrives
+116.974 786 leaves
+117.049 743 done serving by server 3
+117.049 752 served by server 3
+117.111 787 arrives
+117.111 787 waits to be served by server 3
+117.125 788 arrives
+117.125 788 leaves
+117.230 752 done serving by server 3
+117.230 756 served by server 3
+117.443 789 arrives
+117.443 789 waits to be served by server 3
+117.453 790 arrives
+117.453 790 leaves
+117.478 710 done serving by server 1
+117.478 713 served by server 1
+117.536 791 arrives
+117.536 791 waits to be served by server 1
+117.553 792 arrives
+117.553 792 leaves
+117.608 793 arrives
+117.608 793 leaves
+117.716 706 done serving by server 2
+117.716 711 served by server 2
+117.765 794 arrives
+117.765 794 waits to be served by server 2
+117.816 795 arrives
+117.816 795 leaves
+117.866 796 arrives
+117.866 796 leaves
+117.976 797 arrives
+117.976 797 leaves
+118.040 798 arrives
+118.040 798 leaves
+118.061 799 arrives
+118.061 799 leaves
+118.092 756 done serving by server 3
+118.092 757 served by server 3
+118.144 757 done serving by server 3
+118.144 758 served by server 3
+118.212 800 arrives
+118.212 800 waits to be served by server 3
+118.399 801 arrives
+118.399 801 waits to be served by server 3
+118.432 802 arrives
+118.432 802 leaves
+118.468 758 done serving by server 3
+118.468 763 served by server 3
+118.482 713 done serving by server 1
+118.482 736 served by server 1
+118.525 803 arrives
+118.525 803 waits to be served by server 1
+118.528 763 done serving by server 3
+118.528 766 served by server 3
+118.602 804 arrives
+118.602 804 waits to be served by server 3
+118.777 805 arrives
+118.777 805 waits to be served by server 3
+118.849 736 done serving by server 1
+118.849 747 served by server 1
+118.967 747 done serving by server 1
+118.967 748 served by server 1
+119.352 748 done serving by server 1
+119.352 749 served by server 1
+119.377 806 arrives
+119.377 806 waits to be served by server 1
+119.410 766 done serving by server 3
+119.410 769 served by server 3
+119.495 807 arrives
+119.495 807 waits to be served by server 1
+119.834 808 arrives
+119.834 808 waits to be served by server 1
+119.894 749 done serving by server 1
+119.894 753 served by server 1
+119.950 809 arrives
+119.950 809 waits to be served by server 1
+119.956 810 arrives
+119.956 810 waits to be served by server 3
+120.139 811 arrives
+120.139 811 leaves
+120.198 711 done serving by server 2
+120.198 720 served by server 2
+120.224 812 arrives
+120.224 812 waits to be served by server 2
+120.290 769 done serving by server 3
+120.290 770 served by server 3
+120.444 813 arrives
+120.444 813 waits to be served by server 3
+120.579 814 arrives
+120.579 814 leaves
+120.712 815 arrives
+120.712 815 leaves
+120.764 816 arrives
+120.764 816 leaves
+120.946 817 arrives
+120.946 817 leaves
+121.024 720 done serving by server 2
+121.024 732 served by server 2
+121.255 818 arrives
+121.255 818 waits to be served by server 2
+121.577 819 arrives
+121.577 819 leaves
+121.579 753 done serving by server 1
+121.579 754 served by server 1
+121.650 754 done serving by server 1
+121.650 774 served by server 1
+121.702 820 arrives
+121.702 820 waits to be served by server 1
+121.756 821 arrives
+121.756 821 waits to be served by server 1
+121.924 822 arrives
+121.924 822 leaves
+122.047 732 done serving by server 2
+122.047 755 served by server 2
+122.126 823 arrives
+122.126 823 waits to be served by server 2
+122.191 824 arrives
+122.191 824 leaves
+122.197 825 arrives
+122.197 825 leaves
+122.365 826 arrives
+122.365 826 leaves
+122.463 827 arrives
+122.463 827 leaves
+122.513 828 arrives
+122.513 828 leaves
+122.600 829 arrives
+122.600 829 leaves
+122.671 830 arrives
+122.671 830 leaves
+122.676 831 arrives
+122.676 831 leaves
+122.686 832 arrives
+122.686 832 leaves
+123.029 833 arrives
+123.029 833 leaves
+123.037 774 done serving by server 1
+123.037 778 served by server 1
+123.062 834 arrives
+123.062 834 waits to be served by server 1
+123.183 835 arrives
+123.183 835 leaves
+123.184 836 arrives
+123.184 836 leaves
+123.241 837 arrives
+123.241 837 leaves
+123.250 770 done serving by server 3
+123.250 771 served by server 3
+123.283 838 arrives
+123.283 838 waits to be served by server 3
+123.311 839 arrives
+123.311 839 leaves
+123.397 840 arrives
+123.397 840 leaves
+123.435 841 arrives
+123.435 841 leaves
+123.502 842 arrives
+123.502 842 leaves
+123.559 778 done serving by server 1
+123.559 781 served by server 1
+123.593 843 arrives
+123.593 843 waits to be served by server 1
+124.142 844 arrives
+124.142 844 leaves
+124.147 845 arrives
+124.147 845 leaves
+124.182 846 arrives
+124.182 846 leaves
+124.217 847 arrives
+124.217 847 leaves
+124.221 848 arrives
+124.221 848 leaves
+124.292 849 arrives
+124.292 849 leaves
+124.302 850 arrives
+124.302 850 leaves
+124.410 851 arrives
+124.410 851 leaves
+124.413 852 arrives
+124.413 852 leaves
+124.633 853 arrives
+124.633 853 leaves
+124.694 854 arrives
+124.694 854 leaves
+124.802 855 arrives
+124.802 855 leaves
+124.831 856 arrives
+124.831 856 leaves
+124.916 857 arrives
+124.916 857 leaves
+124.979 858 arrives
+124.979 858 leaves
+125.108 859 arrives
+125.108 859 leaves
+125.601 860 arrives
+125.601 860 leaves
+125.744 861 arrives
+125.744 861 leaves
+125.810 862 arrives
+125.810 862 leaves
+125.884 771 done serving by server 3
+125.884 783 served by server 3
+126.207 863 arrives
+126.207 863 waits to be served by server 3
+126.273 781 done serving by server 1
+126.273 791 served by server 1
+126.288 783 done serving by server 3
+126.288 787 served by server 3
+126.469 864 arrives
+126.469 864 waits to be served by server 1
+126.772 755 done serving by server 2
+126.772 762 served by server 2
+127.090 865 arrives
+127.090 865 waits to be served by server 2
+127.142 866 arrives
+127.142 866 waits to be served by server 3
+127.276 791 done serving by server 1
+127.276 803 served by server 1
+127.450 867 arrives
+127.450 867 waits to be served by server 1
+127.464 868 arrives
+127.464 868 leaves
+127.518 787 done serving by server 3
+127.518 789 served by server 3
+127.572 869 arrives
+127.572 869 waits to be served by server 3
+127.629 803 done serving by server 1
+127.629 806 served by server 1
+127.636 789 done serving by server 3
+127.636 800 served by server 3
+127.648 800 done serving by server 3
+127.648 801 served by server 3
+127.981 762 done serving by server 2
+127.981 764 served by server 2
+128.274 801 done serving by server 3
+128.274 804 served by server 3
+128.334 870 arrives
+128.334 870 waits to be served by server 1
+128.414 871 arrives
+128.414 871 waits to be served by server 2
+128.830 872 arrives
+128.830 872 waits to be served by server 3
+128.878 873 arrives
+128.878 873 waits to be served by server 3
+128.899 874 arrives
+128.899 874 waits to be served by server 3
+129.022 875 arrives
+129.022 875 leaves
+129.461 876 arrives
+129.461 876 leaves
+129.486 806 done serving by server 1
+129.486 807 served by server 1
+129.678 877 arrives
+129.678 877 waits to be served by server 1
+129.773 878 arrives
+129.773 878 leaves
+129.797 764 done serving by server 2
+129.797 765 served by server 2
+129.819 807 done serving by server 1
+129.819 808 served by server 1
+129.930 879 arrives
+129.930 879 waits to be served by server 1
+130.004 804 done serving by server 3
+130.004 805 served by server 3
+130.055 880 arrives
+130.055 880 waits to be served by server 2
+130.164 881 arrives
+130.164 881 waits to be served by server 3
+130.186 882 arrives
+130.186 882 leaves
+130.226 883 arrives
+130.226 883 leaves
+130.262 884 arrives
+130.262 884 leaves
+130.297 885 arrives
+130.297 885 leaves
+130.540 765 done serving by server 2
+130.540 767 served by server 2
+130.573 805 done serving by server 3
+130.573 810 served by server 3
+130.907 886 arrives
+130.907 886 waits to be served by server 2
+130.947 887 arrives
+130.947 887 waits to be served by server 3
+130.997 808 done serving by server 1
+130.997 809 served by server 1
+131.198 888 arrives
+131.198 888 waits to be served by server 1
+131.326 889 arrives
+131.326 889 leaves
+131.480 890 arrives
+131.480 890 leaves
+131.633 810 done serving by server 3
+131.633 813 served by server 3
+131.635 767 done serving by server 2
+131.635 768 served by server 2
+131.792 891 arrives
+131.792 891 waits to be served by server 2
+131.943 892 arrives
+131.943 892 waits to be served by server 3
+132.030 893 arrives
+132.030 893 leaves
+132.096 813 done serving by server 3
+132.096 838 served by server 3
+132.173 894 arrives
+132.173 894 waits to be served by server 3
+132.260 895 arrives
+132.260 895 leaves
+132.361 896 arrives
+132.361 896 leaves
+132.410 897 arrives
+132.410 897 leaves
+132.420 898 arrives
+132.420 898 leaves
+132.436 809 done serving by server 1
+132.436 820 served by server 1
+132.459 899 arrives
+132.459 899 waits to be served by server 1
+132.468 900 arrives
+132.468 900 leaves
+132.520 901 arrives
+132.520 901 leaves
+132.541 820 done serving by server 1
+132.541 821 served by server 1
+132.593 902 arrives
+132.593 902 waits to be served by server 1
+133.035 903 arrives
+133.035 903 leaves
+133.160 768 done serving by server 2
+133.160 782 served by server 2
+133.180 904 arrives
+133.180 904 waits to be served by server 2
+133.227 905 arrives
+133.227 905 leaves
+133.332 821 done serving by server 1
+133.332 834 served by server 1
+133.357 906 arrives
+133.357 906 waits to be served by server 1
+133.510 907 arrives
+133.510 907 leaves
+133.526 908 arrives
+133.526 908 leaves
+134.012 909 arrives
+134.012 909 leaves
+134.047 910 arrives
+134.047 910 leaves
+134.183 911 arrives
+134.183 911 leaves
+134.200 912 arrives
+134.200 912 leaves
+134.211 913 arrives
+134.211 913 leaves
+134.282 914 arrives
+134.282 914 leaves
+134.433 915 arrives
+134.433 915 leaves
+134.468 916 arrives
+134.468 916 leaves
+134.640 917 arrives
+134.640 917 leaves
+134.887 918 arrives
+134.887 918 leaves
+134.981 919 arrives
+134.981 919 leaves
+135.381 920 arrives
+135.381 920 leaves
+135.514 921 arrives
+135.514 921 leaves
+135.532 922 arrives
+135.532 922 leaves
+135.973 923 arrives
+135.973 923 leaves
+136.336 924 arrives
+136.336 924 leaves
+136.358 925 arrives
+136.358 925 leaves
+136.420 926 arrives
+136.420 926 leaves
+136.435 838 done serving by server 3
+136.435 863 served by server 3
+136.460 782 done serving by server 2
+136.460 794 served by server 2
+136.547 927 arrives
+136.547 927 waits to be served by server 2
+136.558 928 arrives
+136.558 928 waits to be served by server 3
+136.680 929 arrives
+136.680 929 leaves
+136.694 930 arrives
+136.694 930 leaves
+136.698 863 done serving by server 3
+136.698 866 served by server 3
+136.744 866 done serving by server 3
+136.744 869 served by server 3
+136.759 869 done serving by server 3
+136.759 872 served by server 3
+136.856 931 arrives
+136.856 931 waits to be served by server 3
+136.895 872 done serving by server 3
+136.895 873 served by server 3
+136.924 932 arrives
+136.924 932 waits to be served by server 3
+136.985 933 arrives
+136.985 933 waits to be served by server 3
+137.077 794 done serving by server 2
+137.077 812 served by server 2
+137.155 934 arrives
+137.155 934 waits to be served by server 2
+137.160 935 arrives
+137.160 935 waits to be served by server 3
+137.338 936 arrives
+137.338 936 leaves
+137.352 812 done serving by server 2
+137.352 818 served by server 2
+137.403 937 arrives
+137.403 937 waits to be served by server 2
+137.505 873 done serving by server 3
+137.505 874 served by server 3
+137.577 938 arrives
+137.577 938 waits to be served by server 3
+137.909 939 arrives
+137.909 939 leaves
+137.912 940 arrives
+137.912 940 leaves
+137.965 941 arrives
+137.965 941 leaves
+137.975 942 arrives
+137.975 942 leaves
+138.092 818 done serving by server 2
+138.092 823 served by server 2
+138.118 943 arrives
+138.118 943 waits to be served by server 2
+138.150 874 done serving by server 3
+138.150 881 served by server 3
+138.215 944 arrives
+138.215 944 waits to be served by server 3
+138.269 945 arrives
+138.269 945 leaves
+138.372 946 arrives
+138.372 946 leaves
+138.519 881 done serving by server 3
+138.519 887 served by server 3
+138.614 947 arrives
+138.614 947 waits to be served by server 3
+138.710 948 arrives
+138.710 948 leaves
+138.804 949 arrives
+138.804 949 leaves
+138.860 950 arrives
+138.860 950 leaves
+139.227 887 done serving by server 3
+139.227 892 served by server 3
+139.308 951 arrives
+139.308 951 waits to be served by server 3
+139.320 952 arrives
+139.320 952 leaves
+139.438 953 arrives
+139.438 953 leaves
+139.488 892 done serving by server 3
+139.488 894 served by server 3
+139.495 894 done serving by server 3
+139.495 928 served by server 3
+139.538 954 arrives
+139.538 954 waits to be served by server 3
+139.569 955 arrives
+139.569 955 waits to be served by server 3
+139.616 956 arrives
+139.616 956 leaves
+139.750 957 arrives
+139.750 957 leaves
+139.922 834 done serving by server 1
+139.922 843 served by server 1
+139.955 928 done serving by server 3
+139.955 931 served by server 3
+140.244 931 done serving by server 3
+140.244 932 served by server 3
+140.398 958 arrives
+140.398 958 waits to be served by server 1
+140.451 823 done serving by server 2
+140.451 865 served by server 2
+140.564 959 arrives
+140.564 959 waits to be served by server 2
+140.590 932 done serving by server 3
+140.590 933 served by server 3
+140.620 865 done serving by server 2
+140.620 871 served by server 2
+140.942 933 done serving by server 3
+140.942 935 served by server 3
+141.091 843 done serving by server 1
+141.091 864 served by server 1
+141.302 960 arrives
+141.302 960 waits to be served by server 1
+141.381 864 done serving by server 1
+141.381 867 served by server 1
+141.555 871 done serving by server 2
+141.555 880 served by server 2
+141.572 961 arrives
+141.572 961 waits to be served by server 1
+141.605 962 arrives
+141.605 962 waits to be served by server 2
+141.901 963 arrives
+141.901 963 waits to be served by server 2
+142.128 964 arrives
+142.128 964 waits to be served by server 3
+142.413 965 arrives
+142.413 965 waits to be served by server 3
+142.418 966 arrives
+142.418 966 waits to be served by server 3
+142.444 935 done serving by server 3
+142.444 938 served by server 3
+142.524 967 arrives
+142.524 967 waits to be served by server 3
+142.679 968 arrives
+142.679 968 waits to be served by server 3
+142.718 880 done serving by server 2
+142.718 886 served by server 2
+142.734 886 done serving by server 2
+142.734 891 served by server 2
+142.744 938 done serving by server 3
+142.744 944 served by server 3
+142.954 891 done serving by server 2
+142.954 904 served by server 2
+143.130 867 done serving by server 1
+143.130 870 served by server 1
+143.148 969 arrives
+143.148 969 waits to be served by server 1
+143.313 970 arrives
+143.313 970 waits to be served by server 2
+143.364 904 done serving by server 2
+143.364 927 served by server 2
+143.406 971 arrives
+143.406 971 waits to be served by server 2
+143.580 870 done serving by server 1
+143.580 877 served by server 1
+143.592 972 arrives
+143.592 972 waits to be served by server 1
+143.604 973 arrives
+143.604 973 waits to be served by server 2
+143.880 974 arrives
+143.880 974 waits to be served by server 2
+143.885 975 arrives
+143.885 975 waits to be served by server 3
+143.910 976 arrives
+143.910 976 leaves
+143.924 944 done serving by server 3
+143.924 947 served by server 3
+144.029 877 done serving by server 1
+144.029 879 served by server 1
+144.048 977 arrives
+144.048 977 waits to be served by server 1
+144.213 978 arrives
+144.213 978 waits to be served by server 3
+144.338 979 arrives
+144.338 979 leaves
+144.339 980 arrives
+144.339 980 leaves
+144.476 981 arrives
+144.476 981 leaves
+144.487 879 done serving by server 1
+144.487 888 served by server 1
+144.494 947 done serving by server 3
+144.494 951 served by server 3
+144.624 927 done serving by server 2
+144.624 934 served by server 2
+144.985 888 done serving by server 1
+144.985 899 served by server 1
+145.034 982 arrives
+145.034 982 waits to be served by server 1
+145.087 983 arrives
+145.087 983 waits to be served by server 1
+145.167 934 done serving by server 2
+145.167 937 served by server 2
+145.580 984 arrives
+145.580 984 waits to be served by server 2
+145.599 985 arrives
+145.599 985 waits to be served by server 2
+145.628 937 done serving by server 2
+145.628 943 served by server 2
+145.659 986 arrives
+145.659 986 waits to be served by server 2
+145.671 987 arrives
+145.671 987 waits to be served by server 3
+145.813 988 arrives
+145.813 988 leaves
+145.827 989 arrives
+145.827 989 leaves
+145.923 990 arrives
+145.923 990 leaves
+145.953 991 arrives
+145.953 991 leaves
+146.197 992 arrives
+146.197 992 leaves
+146.524 951 done serving by server 3
+146.524 954 served by server 3
+146.744 993 arrives
+146.744 993 waits to be served by server 3
+146.804 954 done serving by server 3
+146.804 955 served by server 3
+146.808 994 arrives
+146.808 994 waits to be served by server 3
+146.871 995 arrives
+146.871 995 leaves
+146.882 899 done serving by server 1
+146.882 902 served by server 1
+146.906 996 arrives
+146.906 996 waits to be served by server 1
+146.923 997 arrives
+146.923 997 leaves
+146.941 998 arrives
+146.941 998 leaves
+147.036 999 arrives
+147.036 999 leaves
+147.115 1000 arrives
+147.115 1000 leaves
+147.340 943 done serving by server 2
+147.340 959 served by server 2
+147.382 959 done serving by server 2
+147.382 962 served by server 2
+147.632 902 done serving by server 1
+147.632 906 served by server 1
+147.639 955 done serving by server 3
+147.639 964 served by server 3
+148.284 962 done serving by server 2
+148.284 963 served by server 2
+148.340 906 done serving by server 1
+148.340 958 served by server 1
+148.947 964 done serving by server 3
+148.947 965 served by server 3
+149.049 963 done serving by server 2
+149.049 970 served by server 2
+149.071 958 done serving by server 1
+149.071 960 served by server 1
+149.605 960 done serving by server 1
+149.605 961 served by server 1
+150.136 970 done serving by server 2
+150.136 971 served by server 2
+150.977 961 done serving by server 1
+150.977 969 served by server 1
+151.208 971 done serving by server 2
+151.208 973 served by server 2
+151.231 973 done serving by server 2
+151.231 974 served by server 2
+152.198 974 done serving by server 2
+152.198 984 served by server 2
+152.609 965 done serving by server 3
+152.609 966 served by server 3
+152.790 969 done serving by server 1
+152.790 972 served by server 1
+153.620 972 done serving by server 1
+153.620 977 served by server 1
+153.781 984 done serving by server 2
+153.781 985 served by server 2
+154.214 977 done serving by server 1
+154.214 982 served by server 1
+155.115 985 done serving by server 2
+155.115 986 served by server 2
+155.426 982 done serving by server 1
+155.426 983 served by server 1
+155.799 966 done serving by server 3
+155.799 967 served by server 3
+156.045 986 done serving by server 2
+156.154 983 done serving by server 1
+156.154 996 served by server 1
+157.356 967 done serving by server 3
+157.356 968 served by server 3
+157.513 996 done serving by server 1
+158.555 968 done serving by server 3
+158.555 975 served by server 3
+158.606 975 done serving by server 3
+158.606 978 served by server 3
+158.737 978 done serving by server 3
+158.737 987 served by server 3
+161.133 987 done serving by server 3
+161.133 993 served by server 3
+161.175 993 done serving by server 3
+161.175 994 served by server 3
+161.205 994 done serving by server 3
+[9.471 461 539]

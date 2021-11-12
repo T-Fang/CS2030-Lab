@@ -1,0 +1,14 @@
+0.000 1 arrives
+0.000 1 served by server 1
+0.063 2 arrives
+0.063 2 waits to be served by server 1
+0.083 3 arrives
+0.083 3 waits to be served by server 1
+0.223 4 arrives
+0.223 4 leaves
+0.313 1 done serving by server 1
+0.313 2 served by server 1
+2.958 2 done serving by server 1
+2.958 3 served by server 1
+5.660 3 done serving by server 1
+[1.042 3 1]

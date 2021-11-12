@@ -1,0 +1,10 @@
+javac Main.java && java Main < tests/test1.in | diff tests/test1.out -
+javac Main.java && java Main < tests/test2.in | diff tests/test2.out -
+javac Main.java && java Main < tests/test3.in | diff tests/test3.out -
+javac Main.java && java Main < tests/level1-1.in | diff tests/level1-1.out -
+javac Main.java && java Main < tests/level1-2.in | diff tests/level1-2.out -
+javac Main.java && java Main < tests/level1-3.in | diff tests/level1-3.out -
+javac Main.java && java Main < tests/level1-4.in | diff tests/level1-4.out -
+javac Main.java && java Main < tests/level1-5.in | diff tests/level1-5.out -
+javac Main.java && java Main < tests/level1-6.in | diff tests/level1-6.out -
+javac Main.java && java Main < tests/level1-7.in | diff tests/level1-7.out -
